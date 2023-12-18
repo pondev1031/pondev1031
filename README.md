@@ -2,11 +2,11 @@
 <center>
   <table>
     <tr>
-      <td width="70%">
-        <h3>full stack engineer from Cairo / Egypt.</h3>
-        <p>🔭&nbsp;I’m currently working at [Bussiness valley](https://businessvalley.com/)</p>
-        <p>💬&nbsp;Ask me about **JavaScript / TypeScript / Web Development / Tailwind / React.js**</p>
-        <p>⚡&nbsp;Fun fact **I like playing video games**</p>
+      <td width="100%">
+        <h3>Full Stack engineer</h3>
+        <p>🔭&nbsp;I’m an IT Professional by trade, and am currently working full time in that field.</p>
+        <p>💬&nbsp;Ask me about ** Blockchain / NFT / Web development **</p>
+        <p>⚡&nbsp;Fun fact **I like developing betting sites **</p>
         <p align="center">
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -26,9 +26,6 @@
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
         </p>
-      </td>
-      <td valign="top" width="30%">
-        <img src="https://api.daily.dev/devcards/e524e40f678b40b78215b787134aa857.png?r=med" alt="Abdelhamied Mostafa's Dev Card"/>
       </td>
     </tr>
   </table>
