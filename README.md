@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pon True</h1>
 <center>
-  <div style="padding: 6px 13px; border: 1px solid var(--borderColor-default, var(--color-border-default));">
+  <div >
       <h3>Full Stack engineer</h3>
       <p>🔭&nbsp;I’m an IT Professional by trade, and am currently working full time in that field.</p>
       <p>💬&nbsp;Ask me about ** Blockchain / NFT / Web development **</p>
