@@ -37,6 +37,7 @@
       </p>
   </div>
 </center>
+<div align="center">
 
 ---
 
@@ -46,4 +47,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taricov&layout=compact&theme=vision-friendly-dark)](https://github.com/taricov)
 
 ---
+  
+</div>
 
