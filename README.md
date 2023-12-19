@@ -42,9 +42,9 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taricov&theme=dark&background=000000)](https://github.com/taricov?tab=repositories)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuperStar91031&theme=dark&background=000000)](https://github.com/SuperStar91031?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taricov&layout=compact&theme=vision-friendly-dark)](https://github.com/taricov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperStar91031&layout=compact&theme=vision-friendly-dark)](https://github.com/SuperStar91031)
 
 ---
   
