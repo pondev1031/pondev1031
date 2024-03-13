@@ -2,7 +2,7 @@
 <center>
   <div >
       <h3>Full Stack engineer</h3>
-      <p>🔭&nbsp;I’m an IT Professional by trade, and am currently working full time in that field.</p>
+      <p>🔭&nbsp;I’m an IT Professional by trade, and I am always ready for you.</p>
       <p>💬&nbsp;Ask me about ** Blockchain / NFT / Web development **</p>
       <p>⚡&nbsp;Fun fact **I like developing betting sites **</p>
       <p align="center">
