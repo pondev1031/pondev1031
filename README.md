@@ -33,7 +33,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/159580317?s=200&v=4" align="center" style="width: 100%" />
+<img align="right" width="200" src="./assets/developer.gif" />
 </div>  
 
 
