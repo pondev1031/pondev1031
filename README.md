@@ -33,7 +33,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img align="right" width="200" src="./assets/developer.gif" />
+<img align="right" width="265" src="./assets/developer.gif" />
 </div>  
 
 
@@ -108,7 +108,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pondev1031&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -117,7 +117,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pondev1031&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>   -->
 
 <br/>  
 
